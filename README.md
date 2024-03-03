@@ -2,22 +2,14 @@
 モバイル(Android)エンジニアを目指して勉強中の人
 
 ### Status
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ats-kn&layout=donut&show_icons=true&theme=highcontrast&title_color=79ff97" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ats-kn&rank_icon=github&theme=highcontrast&title_color=79ff97" />
 </p>
-<!--
-**ats-kn/ats-kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Links
+[X](https://twitter.com/o_ats_o)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Instagram](https://www.instagram.com/k_a_0214_/)
+
+[Blog]([/AboutMe.md](https://sizu.me/o_ats_o)https://sizu.me/o_ats_o)
