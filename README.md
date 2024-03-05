@@ -1,5 +1,5 @@
 ### About ats-kn
-モバイル(Android)エンジニアを目指して勉強中の人
+Androidアプリエンジニアを目指して勉強中の人
 
 ### Status
 <p align="left"> 
