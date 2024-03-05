@@ -12,4 +12,4 @@ Androidアプリエンジニアを目指して勉強中の人
 
 [Instagram](https://www.instagram.com/k_a_0214_/)
 
-[Blog]([/AboutMe.md](https://sizu.me/o_ats_o)https://sizu.me/o_ats_o)
+[Blog](https://sizu.me/o_ats_o)
