@@ -8,8 +8,10 @@ Androidアプリエンジニアを目指して勉強中の人
 </p>
 
 ### Links
+[ポートフォリオ](https://docs.google.com/presentation/d/e/2PACX-1vSP0TDW7POpCPwKKqbo7pdIF2akE3zlHqrjkyMSvjzpJnOFsSa1LaFoUGOQgVsq48KFOrxeEYJzKFXY/pub?start=false&loop=false&delayms=60000&slide=id.p)
+
 [X](https://twitter.com/o_ats_o)
 
 [Instagram](https://www.instagram.com/k_a_0214_/)
 
-[Blog(ほぼ運用してません)](https://sizu.me/o_ats_o)
+[Blog (今後頑張っていきたいお気持ちです)](https://sizu.me/o_ats_o)
