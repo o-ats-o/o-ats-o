@@ -8,7 +8,7 @@ Androidアプリエンジニアを目指して勉強中の人
 </p>
 
 ### Links
-[ポートフォリオ](https://docs.google.com/presentation/d/e/2PACX-1vSP0TDW7POpCPwKKqbo7pdIF2akE3zlHqrjkyMSvjzpJnOFsSa1LaFoUGOQgVsq48KFOrxeEYJzKFXY/pub?start=false&loop=false&delayms=60000&slide=id.p)
+[ポートフォリオ](https://drive.google.com/file/d/1lGVJVINIphYEX1FtSI36R0MGXA-QA2jK/view?usp=drive_link)
 
 [X](https://twitter.com/o_ats_o)
 
