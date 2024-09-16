@@ -1,5 +1,5 @@
 ### About o-ats-o
-Androidアプリエンジニアを目指して勉強中の人
+o-ats-o(オー・アツオ)はAndroidアプリエンジニアを目指して勉強中です
 
 ### Status
 <p align="left"> 
