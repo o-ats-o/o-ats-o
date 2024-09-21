@@ -8,7 +8,7 @@ o-ats-o(オー・アツオ)はAndroidアプリエンジニアを目指して勉�
 </p>
 
 ### Links
-[ポートフォリオ](https://drive.google.com/file/d/1lGVJVINIphYEX1FtSI36R0MGXA-QA2jK/view?usp=drive_link)
+[ポートフォリオ的なスライド](https://drive.google.com/file/d/1lGVJVINIphYEX1FtSI36R0MGXA-QA2jK/view?usp=drive_link)
 
 [X](https://twitter.com/o_ats_o)
 
