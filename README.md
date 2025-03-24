@@ -1,5 +1,5 @@
 ### About o-ats-o
-o-ats-o(オー・アツオ)です．
+
 
 ### Status
 <p align="left"> 
@@ -10,7 +10,3 @@ o-ats-o(オー・アツオ)です．
 ### Links
 
 [X](https://twitter.com/o_ats_o)
-
-[Instagram](https://www.instagram.com/k_a_0214_/)
-
-[Blog (今後頑張っていきたいお気持ちです)](https://sizu.me/o_ats_o)
