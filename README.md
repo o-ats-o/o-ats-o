@@ -1,5 +1,5 @@
 ### About o-ats-o
-Android App Engineer ()
+Android App Engineer
 
 ### Status
 <p align="left"> 
